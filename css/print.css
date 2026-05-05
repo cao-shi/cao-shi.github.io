@@ -1,0 +1,87 @@
+body {
+    color: #535353;
+    font-family: "Barlow Semi Condensed",sans-serif;
+}
+
+.videoblock-trigger span,
+.header-search,
+.topbar,
+.search,
+.mobilebar,
+.navwrap,
+.casestudyslider-buttons,
+.exploreblock-buttons,
+.slidercontrols,
+.pop-card-wrapper {
+    display: none!important;
+}
+.imagegallery img,
+.featuredblock-wrap,
+.publicationarticle-wrap,
+.imagetextblock.__alt,
+.imagetextblock,
+.textbanner-wrap,
+.linkblock
+.linkblock-image,
+.casestudy-wrap,
+.casestudy-image,
+.exploreblock-sidebar,
+.tabblocks .tabitem-wrap,
+.tabblocks .tabitem-image,
+.tabblocks-tabs,
+.AnimateIn {
+    display: block!important;
+    transform: none!important;
+    opacity: 1!important;
+    animation: none!important;
+}
+.featuredblock-imgwrap::after,
+.textbanner-top::before,
+.accordion-head::after,
+.linkblock-imgwrap::before,
+.linkblock-imgwrap::after,
+.quicklinks-item a::before,
+.tabitem-imagewrap:before {
+    content: none!important;
+}
+.social-icon::before,
+.textbanner-title,
+.textbanner-top,
+.textbanner-wrap,
+.footer,
+.tabblocks .tabitem-wrap,
+body.__blue .footer .contactblock-button a {
+    background: none!important;
+    color: black!important;
+}
+
+.imagetextblock-image
+.tabblocks .tabitem-image,
+.casestudy-image {
+    width: 412px;
+    height: auto;
+    object-fit: none;
+}
+.imagetextblock-imagewrapper {
+    width: 100%;
+    height: auto;
+    min-height: none;
+    max-height: none;
+}
+
+.accordion-head {
+    font-weight: bold;
+}
+.accordion-content {
+    display: block!important;
+}
+
+.statsblock a.statsblock-block {
+    width: 100%;
+}
+
+/* OUTLINE EVERYTHING FOR DEBUG
+* {
+    outline: 1px solid red;
+}
+ */
