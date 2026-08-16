@@ -5,6 +5,35 @@
 
 
 -------------------------------
+【2026年】
+
+2026-06-28
+Li J, Xu C. HiTextSpotter: Hierarchical Relation Graph Reasoning Network for Scene Text Spotting[J]. Knowledge-Based Systems, 2026, 345: 116091. https://doi.org/10.1016/j.knosys.2026.116091.
+
+
+2026-04-26
+Ma S M, Shi C. FDM-Net: Frequency-domain modulation network for medical image segmentation: SM Ma, C. Shi[J]. Signal, Image and Video Processing, 2026, 20(5): 284. https://doi.org/10.1007/s11760-026-05359-6
+
+
+2026-02-13
+Qu Yucai, Xu Canhui. SG-MoE-net: semantic-guided mixture of experts with cross-modality attention for 3D medical segmentation[J]. The Journal of Supercomputing, 2026, 82: 120. https://doi.org/10.1007/s11227-026-08275-1
+
+2026-01-02
+Ma Shumin, Shi Cao. Three-branch dynamic selection network for 3d medical image segmentation[J]. Physica Scripta, 2026, 101(2): 026005.
+
+
+-------------------------------
+【2025年】
+
+2025-08-01
+Xiang Wang, Cao Shi. Patch Attention U-Net for knee cartilage segmentation in magnetic resonance images, Biomedical Signal Processing and Control, Vol 106, 107754,1-10. 2025. doi: 10.1016/j.bspc.2025.107754.
+
+2025-05-12
+Li Pengfei, Shi Cao. SelectGAN: Mamba based explicit selectivity GAN for generating structured content[J]. Signal, Image and Video Processing, 2025, 19(7): 562.
+【备注：这篇论文找不到原文了，页面显示，但是不需要有pdf下载，以后再补充pdf】
+
+
+-------------------------------
 【2024年】
 
 2024-07-01

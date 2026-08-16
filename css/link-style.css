@@ -1,0 +1,16 @@
+.link-underline-italic {
+    color: #1296db;
+    text-decoration: underline;
+    font-style: italic;
+}
+
+/* visited: inherit body text color (gray) */
+.link-underline-italic:visited {
+    color: inherit;
+}
+
+/* override global img,svg{display:block} so icon stays inline with text */
+.link-underline-italic img {
+    display: inline;
+    vertical-align: middle;
+}
