@@ -1,0 +1,47 @@
+时间倒叙排列：
+
+2023-07-23（注意，这里时间只起标识作用，网页上不要显示这行 时间；保持跟以前一样的模式）
+
+
+
+-------------------------------
+【2024年】
+
+2024-07-01
+李冲冲,史操.基于改进LSTM的电抗器故障预警方法.信息技术.2024,7:76-83.
+
+2024-05-01
+王翔,史操,袁正一.融合分区注意力UNet模型用于分割MRI中的膝关节软骨.中国医学影像技术.2024,40(05):764-768.
+
+2024-04-18
+Zhengyi Yuan, Cao Shi. MGN-Net: Multigranularity Graph Fusion Network in Multimodal for Scene Text Spotting, in IEEE Internet of Things Journal, vol. 11, no. 14, pp. 25088-25098, 15 July15, 2024, doi: 10.1109/JIOT.2024.3390943.
+
+2024-04-03
+邱海韬,史操.LM-UNet:横向MLP用于增强U-Net的医学图像分割.计算机系统应用.2024.5:110-117.
+
+2024-02-14
+Wenda Chen; Cao Shi; Knee cartilage MR images segmentation based on multi-dimensional hybrid convolutional neural network, Journal of Intelligent Fuzzy Systems, 2024, 46(2): 4253-4264. https://doi.org/10.3233/JIFS-234050
+
+
+-------------------------------
+【2023年】
+
+2023-09-22
+Honghong Zhang, Canhui Xu, etc. Document Image Object Detection Algorithm Based on Transformer and Mixed-MLP Network. 2023 IEEE 6th International Conference on Electronic Information and Communication Technology (ICEICT), Qingdao, China, 2023, pp. 45-50, doi: 10.1109/ICEICT57916.2023.10245716.
+
+2023-08-06
+Jianfei He; Canhui Xu. Hybrid transformer-CNN with boundary-awareness network for 3D medical image segmentation, Applied Intelligence, 2023, 53: 28542-28554
+
+2023-07-23
+Xu Canhui, Li Yuteng, Shi Cao, Zhang Honghong, Bi Hengyue,Chen Yinong. HiM: hierarchical multimodal network for document layout analysis. Applied Intelligence. 2023. https://doi.org/10.1007/s10489-023-04782-3
+
+2023-07-17
+Hengyue Bi, Canhui Xu, Cao Shi, etc. HGR-Net: Hierarchical Graph Reasoning Network for Arbitrary Shape Scene Text Detection. in IEEE Transactions on Image Processing, vol. 32, pp. 4142-4155, 2023, doi: 10.1109/TIP.2023.3294822.
+
+2023-05-01
+李玉腾, 史操, 许灿辉等. 基于视觉和文本的多模态文档图像目标检测. 计算机应用研究. 2023, 40(05):1559-1564.
+
+
+
+
+
