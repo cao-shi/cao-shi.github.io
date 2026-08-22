@@ -1,0 +1,27 @@
+
+标题：
+
+
+
+
+面向文档布局分析的分层多模态网络（HiM）
+HiM: hierarchical multimodal network for document layout analysis
+
+
+【首页】
+
+研究团队针对文档布局分析中现有方法或单独依赖计算机视觉或自然语言处理，或未能充分融合两种模态的互补优势来丰富特征信息并增强目标检测的问题，提出了一种分层多模态网络（HiM，hierarchical multimodal）。该网络通过引入跨粒度的互补语义和非局部上下文依赖，从多源输入中聚合代表性特征。团队针对不同模态适配了不同的通道和空间注意力机制：视觉模态基于常规卷积网络，文本模态则侧重于分层文本向量的嵌入与位置编码。随后，团队将多模态的特征表示自适应地整合到特征金字塔网络中，用于后续的区域提议处理。团队还对PubLayNet数据集进行了适配改造，包括插入半结构化元素以及通过解析PDF页面扩展真实标注。团队在三个主流基准（Article Regions、PubLayNet和DocBank）上开展了大量实验，验证了HiM网络的有效性和适应性。
+
+
+-------------------------------------------------------
+
+【展开页】
+
+Our research team addresses the challenges in document layout analysis, where existing methods either rely solely on computer vision or natural language processing individually, or fail to fully exploit the complementary benefits of both modalities for enriching feature information and enhancing object detection, by proposing a hierarchical multimodal (HiM) network. This network aggregates representative features from multi-source inputs by introducing complementary semantics and non-local context dependencies across grained scales. We adapt different channel and spatial attention mechanisms to different modalities: the visual modality is based on a conventional convolution network, while the textual modality focuses on embedding hierarchical textual vectors and positioning. We then adaptively integrate the feature representations from multiple modalities in a feature pyramid network for subsequent region proposal processing. We also adapt the PubLayNet dataset for our task, including inserting semi-structure elements and extending ground truth annotations by parsing PDF pages. We conduct extensive experiments on three popular benchmarks (Article Regions, PubLayNet, and DocBank) to verify the effectiveness and adaptability of our HiM network.
+
+
+研究团队针对文档布局分析中现有方法或单独依赖计算机视觉或自然语言处理，或未能充分融合两种模态的互补优势来丰富特征信息并增强目标检测的问题，提出了一种分层多模态网络（HiM，hierarchical multimodal）。该网络通过引入跨粒度的互补语义和非局部上下文依赖，从多源输入中聚合代表性特征。团队针对不同模态适配了不同的通道和空间注意力机制：视觉模态基于常规卷积网络，文本模态则侧重于分层文本向量的嵌入与位置编码。随后，团队将多模态的特征表示自适应地整合到特征金字塔网络中，用于后续的区域提议处理。团队还对PubLayNet数据集进行了适配改造，包括插入半结构化元素以及通过解析PDF页面扩展真实标注。团队在三个主流基准（Article Regions、PubLayNet和DocBank）上开展了大量实验，验证了HiM网络的有效性和适应性。
+
+
+
+
