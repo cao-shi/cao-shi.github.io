@@ -175,12 +175,70 @@
             </div>
           </div>
         
-        <!--    第一段内容          -->
+                          <!--    第一段内容          -->
         <div class="flexibleblocks-block AnimateIn __padded" style="margin-left: 400px;">
           <div class="imagetextblock AnimateIn ">
             <div class="row">
               <div class="col-md-6">
-                <div class="imagetextblock-imagewrapper"> <img class="imagetextblock-image __objfit" src="img\03_research\23-01\绘图2.png?rxy=0.26111111111111113,0.35807050092764381&amp;width=950&amp;height=460&amp;v=1d9e229817252f0&quality=75&format=webp" alt="" /> </div>
+                <div class="imagetextblock-imagewrapper"> <img class="imagetextblock-image __objfit" src="img\03_research\25-01\25-01-01.png?rxy=0.26111111111111113,0.35807050092764381&amp;width=950&amp;height=460&amp;v=1d9e229817252f0&quality=75&format=webp" alt="" /> </div>
+              </div>
+              <!-- col -->
+              <div class="col-md-6">
+                <div class="imagetextblock-wrap">
+                  <div class="imagetextblock-inner">
+                    <div class="imagetextblock-text">
+                      <div class="usercontent">
+                        <h2>Patch注意力软骨分割网络</h2>
+                        <p>研究团队针对膝关节磁共振图像软骨分割中，深度卷积神经网络尽管在精度提升上展现出潜力，但面对不规则形状的小样本时常常力不从心，容易遗漏软骨等重要特征的问题，提出了一种新型分割网络；该网络引入Patch注意力模块（含基于补丁的通道注意力和块内注意力子块，用以增强小目标检测）和特征聚合模块（融合编码器同层与解码器前一层特征），并在SKI-10和OAI两个公开数据集上评估，取得了令人满意的软骨分割性能。</p>
+                      </div>
+                    </div>
+                    <div class="imagetextblock-button"> <a href="Patch注意力软骨分割网络.html" class="button __small" target="_self"> <span>Read More</span></a> </div>
+                  </div>
+                </div>
+              </div>
+              <!-- col --> 
+            </div>
+            <!-- row --> 
+          </div>
+        </div>
+
+	      	      <!-- 分割线 -->
+<hr style="border: 0; border-top: 2px solid #ccc; width: 80%; margin: 30px auto;">
+                <!--    第二段内容          -->
+        <div class="flexibleblocks-block AnimateIn __padded" style="margin-left: 400px;">
+          <div class="imagetextblock AnimateIn ">
+            <div class="row">
+              <div class="col-md-6">
+                <div class="imagetextblock-imagewrapper"> <img class="imagetextblock-image __objfit" src="img\03_research\23-02\23-02-01.png?rxy=0.26111111111111113,0.35807050092764381&amp;width=950&amp;height=460&amp;v=1d9e229817252f0&quality=75&format=webp" alt="" /> </div>
+              </div>
+              <!-- col -->
+              <div class="col-md-6">
+                <div class="imagetextblock-wrap">
+                  <div class="imagetextblock-inner">
+                    <div class="imagetextblock-text">
+                      <div class="usercontent">
+                        <h2>分层多模态布局分析网络</h2>
+                        <p>研究团队针对文档布局分析中现有方法或单独依赖计算机视觉或自然语言处理，或未能充分融合两种模态的互补优势来丰富特征信息并增强目标检测的问题，提出了一种分层多模态网络（HiM，hierarchical multimodal）。该网络通过引入跨粒度的互补语义和非局部上下文依赖聚合代表性特征，并为不同模态适配了视觉和文本的注意力机制，随后将多模态特征自适应整合到特征金字塔网络中，并对PubLayNet数据集进行适配改造，包括插入半结构化元素和扩展标注。团队在Article Regions、PubLayNet和DocBank三个基准上开展大量实验，验证了HiM的有效性和适应性。</p>
+                      </div>
+                    </div>
+                    <div class="imagetextblock-button"> <a href="分层多模态布局分析网络.html" class="button __small" target="_self"> <span>Read More</span></a> </div>
+                  </div>
+                </div>
+              </div>
+              <!-- col --> 
+            </div>
+            <!-- row --> 
+          </div>
+        </div>
+
+	      	      <!-- 分割线 -->
+<hr style="border: 0; border-top: 2px solid #ccc; width: 80%; margin: 30px auto;">
+        <!--    第三段内容          -->
+        <div class="flexibleblocks-block AnimateIn __padded" style="margin-left: 400px;">
+          <div class="imagetextblock AnimateIn ">
+            <div class="row">
+              <div class="col-md-6">
+                <div class="imagetextblock-imagewrapper"> <img class="imagetextblock-image __objfit" src="img\03_research\23-01\23-01-04.png?rxy=0.26111111111111113,0.35807050092764381&amp;width=950&amp;height=460&amp;v=1d9e229817252f0&quality=75&format=webp" alt="" /> </div>
               </div>
               <!-- col -->
               <div class="col-md-6">
@@ -189,10 +247,10 @@
                     <div class="imagetextblock-text">
                       <div class="usercontent">
                         <h2>边界感知混合分割网络</h2>
-                        <p>随着三维医学影像在临床诊断中的广泛应用，器官分割的精度直接影响诊疗决策的可靠性。然而，3D体积医学图像普遍存在器官与周围组织对比度低、边界模糊的问题，而现有方法多聚焦于2D切片层面的边界增强，难以有效保留三维空间中的边界体素信息。为应对这一挑战，研究团队提出了具有边界感知能力的混合Transformer-CNN网络（HTCB-Net）。该网络遵循编码器-解码器分割范式，在3D Swin-Transformer编码器中嵌入可学习的边界提取模块，以生成辅助性边界图并显式监督特征提取；同时设计边界保留模块，通过空间互补与通道注意力机制将边界位置感知融入特征增强，从而实现更精准的3D边界保留。在OAI-ZIB、Spleen和Pancreas三个公开CT/MRI数据集上的定量实验表明，HTCB-Net在平均对称表面距离（ASSD）指标上取得显著改进，验证了其在低对比度场景下对三维边界体素的有效保留能力。</p>
+                        <p>针对3D医学图像中器官组织对比度低、边界模糊，且现有方法聚焦2D边界增强而缺乏三维边界保留，团队提出具有边界感知的混合网络。该网络采用编解码结构，在编码器中嵌入边界提取模块生成边界图监督特征，并设计边界保留模块，通过空间互补与通道注意力融合边界信息。在三个数据集上，该网络在ASSD指标上显著改进，验证了其三维边界保留。</p>
                       </div>
                     </div>
-                    <div class="imagetextblock-button"> <a href="岩心图像交互式分割系统.html" class="button __small" target="_self"> <span>Read More</span></a> </div>
+                    <div class="imagetextblock-button"> <a href="边界感知混合分割网络.html" class="button __small" target="_self"> <span>Read More</span></a> </div>
                   </div>
                 </div>
               </div>
