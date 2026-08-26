@@ -11417,6 +11417,12 @@ body {
     }
 }
 
+@media (max-width: 767px) {
+    .flexibleblocks-block[style*="margin-left: 400px"] {
+        margin-left: 0 !important;
+    }
+}
+
 .flexibleblocks-block.__padded {
     margin-top: 40px;
 }
